@@ -19,7 +19,7 @@ CustomerNo (categorical): a five-digit unique number that defines each customer.
 Country (categorical): name of the country where the customer resides.<br>
 
 ## GOAL
-Gather useful intrinsic information by combining RFM model and some unsupervised learning model.
+Gather useful intrinsic information by combining RFM model and some unsupervised learning model
 
 For each segments, analyze the data, and try to answer the following questions:
 
