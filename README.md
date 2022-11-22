@@ -35,4 +35,4 @@ Also, there is a small percentage of order cancellation in the data set. Most of
 
 Therefore, try to build a supervised learning model to solve this problem.
 
-Source from UCI Machine Learning Repository: link to dataset
+Source from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/online+retail
